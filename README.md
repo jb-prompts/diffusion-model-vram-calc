@@ -34,7 +34,7 @@ A comprehensive, serverless tool for estimating VRAM requirements for the latest
 
 ## 🎯 Live Demo
 
-Visit the live calculator: [Video Diffusion VRAM Calculator](https://jb-prompts.github.io/diffusion-model-vram-calc/)
+Visit the live calculator: [Video Diffusion VRAM Calculator](https://vramcalc4diffusion.netlify.app/)
 
 ## 📋 Quick Start
 
